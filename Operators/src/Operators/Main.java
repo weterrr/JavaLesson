@@ -7,11 +7,11 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите число x:");
-        double x = sc.nextInt();
+        double x = sc.nextDouble();
         System.out.print("Введите число y:");
-        double y = sc.nextInt();
+        double y = sc.nextDouble();
         System.out.print("Введите число z:");
-        double z = sc.nextInt();
+        double z = sc.nextDouble();
         sc.close();
         double M = (x+y+z)/3;
         System.out.println("Среднее арифметическое чисел:" + M);
