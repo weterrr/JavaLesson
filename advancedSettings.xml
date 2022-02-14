@@ -1,0 +1,9 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="vcs.non.modal.commit.toggle.ui" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
